@@ -27,6 +27,25 @@
     })
 </script>
 
+<svelte:head>
+    <title>Ceritapeta.co.uk</title>
+    <meta name="description" content="Cerita Peta is a platform to create and explore stories with maps & graphs. 
+    A sprinkle of visualisation techniques can transform reports into stories that everyone enjoy.">
+    <meta name="keywords" content="cerita peta, story maps, story map, webgis, spatial data science, geospatial, gis">
+
+    <meta property="og:title" content="Ceritapeta.co.uk">
+    <meta property="og:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
+    <meta property="og:url" content="https://ceritapeta.co.uk">
+    <meta property="og:image" content="https://https://ceritapeta.co.uk/banner.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Ceritapeta.co.uk">
+    <meta name="twitter:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
+    <meta name="twitter:image" content="https://https://ceritapeta.co.uk/banner.jpg">
+
+
+</svelte:head>
+
 <header class='py-2 px-5  z-50 flex items-center'>
     <div class='mr-5 flex items-center mx-5 '>
         <img src="{base}/logo.png" alt="" class='h-16 mr-2'>
