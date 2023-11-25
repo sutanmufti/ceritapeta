@@ -45,10 +45,6 @@
     <meta property="og:updated_time" content="1700917376" />
 
 
-    <meta property="og:image:type" content="image/png" />
-    <meta property="og:image:width" content="600" />
-    <meta property="og:image:height" content="600" />
-
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ceritapeta.co.uk">
     <meta name="twitter:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
