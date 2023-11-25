@@ -39,16 +39,20 @@
     <meta property="og:site_name" content="Ceritapeta.co.uk">
     <meta property="og:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
     <meta property="og:url" content="https://ceritapeta.co.uk">
-    <meta property="og:image" itemprop="image"  content="https://ceritapeta.co.uk/meta.png">
-    <meta property="og:image:secure_url" content="https://ceritapeta.co.uk/meta.png" />
+    <meta property="og:image" itemprop="image"  content="https://ceritapeta.co.uk/banner_meta.jpg">
+    <meta property="og:image:secure_url" content="https://ceritapeta.co.uk/banner_meta.jpg" />
     <meta property="og:image:alt" content="An illustration about people travelling in a map." />
     <meta property="og:updated_time" content="1700917376" />
+
+    <meta property="og:image:type" content="image/jpeg" /> 
+    <meta property="og:image:width" content="1200" /> 
+    <meta property="og:image:height" content="754" />
 
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ceritapeta.co.uk">
     <meta name="twitter:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
-    <meta name="twitter:image" content="https://ceritapeta.co.uk/meta.png">
+    <meta name="twitter:image" content="https://ceritapeta.co.uk/banner_meta.jpg">
 
 
 </svelte:head>
