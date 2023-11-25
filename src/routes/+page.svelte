@@ -37,6 +37,10 @@
     <meta property="og:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
     <meta property="og:url" content="https://ceritapeta.co.uk">
     <meta property="og:image" content="https://ceritapeta.co.uk/meta.png">
+    <meta property="og:image:secure_url" content="https://ceritapeta.co.uk/meta.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1706px" />
+    <meta property="og:image:height" content="1112px" />
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ceritapeta.co.uk">
