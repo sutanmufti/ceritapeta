@@ -71,7 +71,7 @@
     </div>
     <div class='w-1/2  rounded-lg flex items-center justify-center'>
         <div class='relative border  z-[99]'>
-            <div class='hover:scale-110 transition-all absolute top-0 right-0 translate-x-56 translate-y-24 p-5 bg-white/80 backdrop-blur-sm shadow-xl rounded-xl w-[20vw] hover:shadow-2xl'>
+            <div class='hover:scale-110 transition-all absolute top-0 right-0 translate-x-56 translate-y-2 p-5 bg-white/80 backdrop-blur-sm shadow-xl rounded-xl w-[20vw] hover:shadow-2xl'>
                 <div class='flex items-center'>
                     <div>
                         <div>
@@ -86,7 +86,7 @@
                     </div>
                 </div>
             </div>
-            <div class='hover:scale-110 transition-all absolute bottom-0 left-0 -translate-y-28 translate-x-52 p-5 bg-white/80 backdrop-blur-sm shadow-xl rounded-xl w-[20vw] hover:shadow-2xl'>
+            <!-- <div class='hover:scale-110 transition-all absolute bottom-0 left-0 -translate-y-28 translate-x-52 p-5 bg-white/80 backdrop-blur-sm shadow-xl rounded-xl w-[20vw] hover:shadow-2xl'>
                 <div class='flex flex-row items-center'>
                     <div class='flex-grow'>
                         <div>
@@ -100,7 +100,7 @@
                         <Fa icon={faCodeCompare} class='text-lg text-blue '  color='#3b82f6'/>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <div class='w-[50vh] h-[50vh]  '>
             <img src="{base}/{bannername}" class='z-10 h-full w-full object-cover rounded-xl transition-opacity duration-1000 ease-in-out' bind:this={imgdiv} alt="">
