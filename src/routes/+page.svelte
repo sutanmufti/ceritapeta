@@ -113,30 +113,36 @@
 <!-- content -->
 
 <div class='flex p-5 w-screen max-md:flex-col h-fit'>
-    <div class='bg-sky-200/20 shadow-md flex-grow mx-4 p-5 rounded-lg my-2'>
-        <h1 class='text-sky-950 font-bold text-xl mb-2'>
-            Cartography
-        </h1>
-        <p class='text-gray-900/70'>
-            Hello world
-        </p>
-    </div>
-    <div class='bg-sky-200/20 shadow-md flex-grow mx-4 p-5 rounded-lg my-2'>
-        <h1 class='text-sky-950 font-bold text-xl mb-2'>
-            Network & Data Analytics
-        </h1>
-        <p class='text-gray-900/70'>
-            Hello world
-        </p>
-    </div>
-    <div class='bg-sky-200/20 shadow-md flex-grow mx-4 p-5 rounded-lg my-2'>
-        <h1 class='text-sky-950 font-bold text-xl mb-2'>
-            Interactive Reports
-        </h1>
-        <p class='text-gray-900/70'>
-            Hello world
-        </p>
-    </div>
+    <a href="https://towardsdatascience.com/spatial-data-science-javascript-python-60464cbe908d" class='bg-sky-200/20 hover:shadow-2xl transition-shadow hover:underline shadow-md flex-grow mx-4 p-5 rounded-lg my-2'>
+        <div >
+            <h1 class='text-sky-950 font-bold text-xl mb-2'>
+                Cartography
+            </h1>
+            <p class='text-gray-900/70'>
+                We are map specialists.
+            </p>
+        </div>
+    </a>
+    <a href="https://rekayasadata.co.uk/spatial-data-science-advanced-tools-2ec7f758cdb8" class='bg-sky-200/20 hover:shadow-2xl transition-shadow hover:underline shadow-md flex-grow mx-4 p-5 rounded-lg my-2'>
+        <div >
+            <h1 class='text-sky-950 font-bold text-xl mb-2'>
+                Network & Data Analytics
+            </h1>
+            <p class='text-gray-900/70'>
+                Network and data analytics technique.
+            </p>
+        </div>
+    </a>
+    <a href="https://towardsdatascience.com/presenting-spatial-data-interactively-with-story-maps-2-17363598208f" class='bg-sky-200/20 hover:shadow-2xl transition-shadow hover:underline shadow-md flex-grow mx-4 p-5 rounded-lg my-2'>
+        <div >
+            <h1 class='text-sky-950 font-bold text-xl mb-2'>
+                Interactive Reports
+            </h1>
+            <p class='text-gray-900/70'>
+                Using javascript, we make things interactive.
+            </p>
+        </div>
+    </a>
 </div>
 
 
