@@ -36,11 +36,14 @@
     <meta property="og:type" content="website" />
 
     <meta property="og:title" content="Ceritapeta.co.uk">
+    <meta property="og:site_name" content="Ceritapeta.co.uk">
     <meta property="og:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
     <meta property="og:url" content="https://ceritapeta.co.uk">
-    <meta property="og:image" content="https://ceritapeta.co.uk/meta.png">
+    <meta property="og:image" itemprop="image"  content="https://ceritapeta.co.uk/meta.png">
     <meta property="og:image:secure_url" content="https://ceritapeta.co.uk/meta.png" />
     <meta property="og:image:alt" content="An illustration about people travelling in a map." />
+    <meta property="og:updated_time" content="1700917376" />
+
 
     <meta property="og:image:type" content="image/png" />
     <meta property="og:image:width" content="600" />
