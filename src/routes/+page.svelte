@@ -156,14 +156,14 @@
         &copy 2023 Rekayasa Data Spasial 
     </div>
     <div>
-        <a href="https://github.com">
+        <a href="https://github.com/sutanmufti/ceritapeta">
             <Fa icon={faGithub} class='inline mx-2' size='1.5em'/>
         </a>
-        <a href="https://instagram.com">
+        <a href="https://www.instagram.com/rekayasadataspasial">
             <Fa icon={faInstagram} class='inline mx-2' size='1.5em'/>
         </a>
 
-        <a href="https://instagram.com">
+        <a href="https://www.linkedin.com/company/91567273/admin/feed/posts/">
             <Fa icon={faLinkedin} class='inline mx-2' size='1.5em'/>
         </a>
     </div>
