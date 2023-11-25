@@ -12,17 +12,17 @@
     $: bannername = bannernames[n]
     onMount(()=>{
         setInterval(()=>{
-            imgdiv.classList.add('opacity-0')
-            
-
-            setTimeout(()=>{
-                if (n+1<bannernames.length){
-                    n+=1
-                } else {
-                    n =0
-                }
-                imgdiv.classList.remove('opacity-0')
-            }, 1000)
+            if (imgdiv !== null){
+                imgdiv.classList.add('opacity-0')
+                setTimeout(()=>{
+                    if (n+1<bannernames.length){
+                        n+=1
+                    } else {
+                        n =0
+                    }
+                    imgdiv.classList.remove('opacity-0')
+                }, 1000)
+            }
         }, 4000)
     })
 </script>
@@ -48,8 +48,25 @@
 
 <!-- banner -->
 <!-- mobile -->
-<div class='z-0 h-[50vh] block md:hidden'>
-    <img src="{base}/banner.jpg" class='z-10 h-full w-full object-cover' alt="">
+<div class='z-0 h-[50vh] block md:hidden relative'>
+    <img src="{base}/{bannername}" class='h-full w-full object-cover absolute top-0 left-0 z-[-1]' alt="">
+    <div class='z-0 w-full h-full flex justify-center items-center'>
+        <div class='m-2 text-center bg-white/60 p-2 rounded-md backdrop-blur-sm'>
+            <h1 class='text-2xl font-semibold'>
+                Cerita Peta by RDS
+            </h1>
+            <p class='mt-5 text-gray-500/80'>
+                <b>Cerita Peta</b> means story map. 
+                Cerita Peta is a platform to create and explore stories with maps & graphs. 
+                A sprinkle of visualisation techniques can transform reports into stories that everyone enjoy.
+            </p>
+            <p class='my-5 text-blue-600/80 hover:underline'>
+                <a href="https://jakarta.sutan.co.uk" target="_blank">
+                    <Fa class='inline mr-1' icon={faLink}/> Check this story out! 
+                </a>
+            </p>
+        </div>
+    </div>
 </div>
 
 <!-- banner web -->
