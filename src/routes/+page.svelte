@@ -36,12 +36,12 @@
     <meta property="og:title" content="Ceritapeta.co.uk">
     <meta property="og:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
     <meta property="og:url" content="https://ceritapeta.co.uk">
-    <meta property="og:image" content="https://https://ceritapeta.co.uk/banner.jpg">
+    <meta property="og:image" content="https://https://ceritapeta.co.uk/meta.png">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ceritapeta.co.uk">
     <meta name="twitter:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
-    <meta name="twitter:image" content="https://https://ceritapeta.co.uk/banner.jpg">
+    <meta name="twitter:image" content="https://https://ceritapeta.co.uk/meta.png">
 
 
 </svelte:head>
