@@ -33,14 +33,18 @@
     A sprinkle of visualisation techniques can transform reports into stories that everyone enjoy.">
     <meta name="keywords" content="cerita peta, story maps, story map, webgis, spatial data science, geospatial, gis">
 
+    <meta property="og:type" content="website" />
+
     <meta property="og:title" content="Ceritapeta.co.uk">
     <meta property="og:description" content="Cerita Peta is a platform to create and explore stories with maps & graphs.">
     <meta property="og:url" content="https://ceritapeta.co.uk">
     <meta property="og:image" content="https://ceritapeta.co.uk/meta.png">
     <meta property="og:image:secure_url" content="https://ceritapeta.co.uk/meta.png" />
+    <meta property="og:image:alt" content="An illustration about people travelling in a map." />
+
     <meta property="og:image:type" content="image/png" />
-    <meta property="og:image:width" content="600px" />
-    <meta property="og:image:height" content="600px" />
+    <meta property="og:image:width" content="600" />
+    <meta property="og:image:height" content="600" />
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ceritapeta.co.uk">
